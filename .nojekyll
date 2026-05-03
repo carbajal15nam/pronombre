@@ -1,0 +1,5 @@
+# En la terminal, dentro de tu repositorio
+touch .nojekyll
+git add .nojekyll
+git commit -m "Desactivar procesamiento Jekyll"
+git push origin main
